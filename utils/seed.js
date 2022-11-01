@@ -36,6 +36,6 @@ connection.once('open', async () => {
     email: 'aljones@comcast.net'
   })
 
-  console.info('Seeding complete! 🌱');
+  console.info('Seeding complete!');
   process.exit(0);
 });
