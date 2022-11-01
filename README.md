@@ -62,4 +62,4 @@ Now that the application is up and running, the user can use Insomnia to view da
 
   ## Questions
 
-  If you have any questions or would like to provide feedback, do not hesitate to view my GitHub profile at [https://github.com/rpecuch](https://github.com/rpecuch) or contact me at rpecuch@comcast.net.
+  If you have any questions or would like to provide feedback, do not hesitate to view my GitHub profile at [https://github.com/Kcrespo15](https://github.com/Kcrespo15) or contact me at kevincrespo15@gmail.com.

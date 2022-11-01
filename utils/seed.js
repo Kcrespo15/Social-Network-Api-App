@@ -27,8 +27,8 @@ connection.once('open', async () => {
   await Thought.collection.insertMany(thoughts);
   // seed database with user data
   await User.collection.insertOne({
-    username: 'rpecuch',
-    email: 'rpecuch@comcast.net'
+    username: 'Kcrespo',
+    email: 'kevincrespo15@gmail.com'
   })
 
   await User.collection.insertOne({
